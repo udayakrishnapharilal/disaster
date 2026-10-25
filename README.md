@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Disaster Management System (DMS)
 ### Full-Stack Java OOP Academic Project
 
@@ -253,3 +254,6 @@ The test suite validates:
 =======
 # disaster-management
 >>>>>>> 27d3a71b60c9587b90c177b78a437ad720eefcdf
+=======
+# disaster
+>>>>>>> f3152a61c36b699a0400cdcd915eea730a25ea66
