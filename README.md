@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disaster Management System (DMS)
 ### Full-Stack Java OOP Academic Project
 
@@ -249,3 +250,6 @@ The test suite validates:
 - `ShelterServiceTest`: Sync capacity allocation and `ShelterFullException`.
 - `ResourceServiceTest`: Inventory deduction, status transition (`IN_STOCK` -> `LOW_STOCK` -> `OUT_OF_STOCK`), and `InsufficientResourceException`.
 - `OopPrinciplesTest`: Verifies OOP inheritance hierarchy, polymorphic method execution, interface contracts, and encapsulation invariants.
+=======
+# disaster-management
+>>>>>>> 27d3a71b60c9587b90c177b78a437ad720eefcdf
